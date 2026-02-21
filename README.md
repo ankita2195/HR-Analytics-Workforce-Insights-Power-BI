@@ -96,8 +96,8 @@ The focus shifts from reactive attrition control to proactive workforce sustaina
 
 ## 📂 Repository Contents
 
-- Power BI file (`.pbix`)  
-- Dashboard Presentation (`.pptx`)  
+- Power BI file (`HR Insights.pbix`)  
+- Dashboard Presentation (`Hr Insights ppt.pdf`)  
 - Dashboard Screenshots  
 - Dataset 
 - README  
