@@ -15,10 +15,7 @@ The dashboard explores:
 
 This project focuses on turning HR data into structured, decision-oriented insights.
 
-## 🔗 [View Live Dashboard]([https://app.powerbi.com/view?...](https://app.powerbi.com/view?r=eyJrIjoiMzZhZDk5YWYtZWZjMS00MmY2LWJmZDItMTgwNGQzNTk1Zjg3IiwidCI6ImE1ZmI3ZjgwLTIwNTEtNGE5Ny05YjEyLTZhYjIyMmQyYmQ1NSJ9&pageName=3a47a1831f525cb2a28d)
-
-
-
+👉 **Live Dashboard:** [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzZhZDk5YWYtZWZjMS00MmY2LWJmZDItMTgwNGQzNTk1Zjg3IiwidCI6ImE1ZmI3ZjgwLTIwNTEtNGE5Ny05YjEyLTZhYjIyMmQyYmQ1NSJ9&pageName=3a47a1831f525cb2a28d)
 
 ---
 
